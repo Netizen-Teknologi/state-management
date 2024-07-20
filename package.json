@@ -1,0 +1,20 @@
+{
+  "name": "@netizen-teknologi/state-management",
+  "version": "1.0.0",
+  "description": "A simple state management using react context api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react state management",
+    "react native state management",
+    "react simple state management",
+    "react native simple state management",
+    "netizen teknologi",
+    "rinaldycodes",
+    "rinaldy.dev"
+  ],
+  "author": "rinaldycodes",
+  "license": "ISC"
+}
